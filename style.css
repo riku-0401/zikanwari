@@ -1,0 +1,60 @@
+th {
+    background:  orange
+}
+th {
+    border: solid;
+    background:  orange
+}
+td {
+    border: solid;
+}
+
+table {
+    border: solid;
+}
+th {
+    border: solid;
+    background:  orange;
+}
+td {
+    border: solid;
+}
+
+table {
+    border: solid;
+    border-collapse:collapse;
+} 
+th {
+    border: solid 1px;
+    background:  orange;
+}
+td {
+    border: solid 1px;
+    
+}
+
+table {
+    border : solid;
+    border-collapse:collapse;
+}
+th {
+    border: solid 1px;
+    background:  orange;
+    width: 70px;
+    height: 70px;
+}
+td {
+    border: solid 1px;
+    text-align:center
+}
+
+table {
+    border : solid;
+    border-collapse:collapse;
+} 
+tt{
+    font-size: 20px;
+}
+
+ 
+ 
